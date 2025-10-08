@@ -76,12 +76,12 @@ const Index = () => {
   ];
 
   const gallery = [
-    "https://images.unsplash.com/photo-1519167758481-83f29da8c2e6?w=800&h=600&fit=crop",
-    "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=800&h=600&fit=crop",
-    "https://images.unsplash.com/photo-1464047736614-af63643285bf?w=800&h=600&fit=crop",
-    "https://images.unsplash.com/photo-1478146896981-b80fe463b330?w=800&h=600&fit=crop",
-    "https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?w=800&h=600&fit=crop",
-    "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=800&h=600&fit=crop"
+    "https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e?w=800&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=800&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=800&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1488426862026-3ee34a7d66df?w=800&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1496440737103-cd596325d314?w=800&h=600&fit=crop",
+    "https://images.unsplash.com/photo-1531746020798-e6953c6e8e04?w=800&h=600&fit=crop"
   ];
 
   return (
